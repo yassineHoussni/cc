@@ -1,0 +1,24 @@
+.name {
+    font-weight: bold;
+    text-align: center;
+}
+img {
+    margin: 0 auto;
+    display: block;
+}
+.container {
+    border: 1px solid black;
+    width: 25%;
+    margin: 0 auto;
+
+}
+
+.prenom {
+    font-weight: bold;
+    text-align: center;
+}
+
+.filiere {
+    font-weight: bold;
+    text-align: center;
+}
